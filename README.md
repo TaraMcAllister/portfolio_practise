@@ -1,7 +1,7 @@
-#Practise Portfolio
+Practise Portfolio
 ======================================
 
 Click the link below to see my refersher experiment using HTML, CSS and JS.
 -----------------------------
 
-- [My Practise] (https://taramcallister.github.io/portfolio_practise/portfolio.html)
+- [My Practise] (https://taramcallister.github.io/portfolio_practise/master/portfolio.html)
